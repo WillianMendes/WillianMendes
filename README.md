@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/WillianMendes/portfolio](https://github.com/WillianMendes/portfolio)
 
-- 💬 Ask me about **Java, Javascript, React, HTML and CSS**
+- 💬 Ask me about **Java, Typescript, NestJs, Node, Javascript, React, HTML and CSS**
 
 - 📫 How to reach me **willianmendesbr@gmail.com**
 
